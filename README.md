@@ -1,6 +1,6 @@
 ## Team
-[Essete Tsahai](https://github.com/essetetsahai)
-[Michial Miller](https://github.com/michialm)
+[Essete Tsahai](https://github.com/essetetsahai),
+[Michial Miller](https://github.com/michialm),
 [Bua Matthews](https://github.com/bvanitsthian)
 
 # Big G Express: Predicting Derates
