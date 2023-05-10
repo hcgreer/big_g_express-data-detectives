@@ -1,3 +1,8 @@
+## Team
+[Essete Tsahai](https://github.com/essetetsahai)
+[Michial Miller](https://github.com/michialm)
+[Bua Matthews](https://github.com/bvanitsthian)
+
 # Big G Express: Predicting Derates
 In this project, you will be working with fault code data and vehicle onboard diagnostic data to try and predict an upcoming full derate. These are indicated by an SPN 5246. 
 
